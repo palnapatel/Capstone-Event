@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+## Intoduction
 
-You can use the [editor on GitHub](https://github.com/palnapatel/capstone-event/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Blockchain
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Blockchain is literally just a chain of blocks. When we say the words “block” and “chain” in this context, we are actually talking about digital information (the “block”) stored in a public database (the “chain”)
+- When a block stores new data it is added to the blockchain
+- Types of Blockchain - Public, Private, Consortium
+- Benefits of Blockchain:
+  a. Greater Transparency
+  b. Enchanced Security
+  c. Improved Traceability
+  d. Increased Efficiency and Speed
+  e. Reduced Costs
+- Blockchain allows multiple different parties to securely interact with the same universal source of truth
+
+### Hyperledger Composer 
 
 ### Markdown
 
