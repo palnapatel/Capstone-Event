@@ -27,6 +27,8 @@
 - It is used for developing applications or solutions with a modular architecture, it allows components, such as consensus and membership services, to be plug-and-play
 - It leverages container technology to host smart contracts called “chaincode” that comprise the application logic of the system
 
+![Fabric](https://www.altoros.com/blog/wp-content/uploads/2016/11/Hyperledger-Blockchain-Elli-Androulaki-fabric-model.jpg)
+
 ## Security
 
 ### Benenfits and Concerns
