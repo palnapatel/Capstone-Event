@@ -73,7 +73,7 @@ b. Enable ACL: prevents outsider access
 
 ![class diagram](https://user-images.githubusercontent.com/35075881/49333668-ed4ad400-f590-11e8-9be6-347366653fb9.png)
 
-### Contributors
+## Contributors (NEU - MSCY)
 
 - Palna Patel
 - Hongchao Wang
