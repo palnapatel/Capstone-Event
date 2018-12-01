@@ -47,12 +47,22 @@ b. Enable ACL: prevents outsider access
 
 ## Working Hyperledger Composer
 
-![Hyperledger Composer](https://raw.github.com/palnapatel/Capstone-Event/blob/master/Composer%20Playground.png)
-![Composer](https://raw.github.com/palnapatel/Capstone-Event/blob/master/Composer2.png)
+![composer playground](https://user-images.githubusercontent.com/35075881/49333613-d6f04880-f58f-11e8-994d-93c438c22ec3.png)
+![composer2](https://user-images.githubusercontent.com/35075881/49333616-dce62980-f58f-11e8-9b64-ca853daadd72.png)
 
 ## Working Hyperledger Fabric
 
-![Fabric](https://raw.github.com/palnapatel/Capstone-Event/blob/master/Fabric.png)
-![Fabric](https://raw.github.com/palnapatel/Capstone-Event/blob/master/Fabric%202.png)
+![fabric](https://user-images.githubusercontent.com/35075881/49333618-e1aadd80-f58f-11e8-821c-8ec8586fba51.png)
+![fabric 2](https://user-images.githubusercontent.com/35075881/49333619-e40d3780-f58f-11e8-9718-73ac5c6bff46.png)
+
+## Deep Learning IDS
+
+- First, capture network traffic packets and transform them into high-level data sheets with fact labels
+- Second, train the labeled data (UNSW-NB15) on machine learning models such as decision trees and neural network
+- Third, evaluate the validility of machine learning IDS application by predicting unknown attacks
+
+![feature-creation](https://user-images.githubusercontent.com/35075881/49333628-19b22080-f590-11e8-8085-191e0a851ad9.png)
+![ml-ids-module](https://user-images.githubusercontent.com/35075881/49333625-0901aa80-f590-11e8-9053-0f58af89ec88.png)
+
 
 
