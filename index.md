@@ -61,9 +61,10 @@ b. Enable ACL: prevents outsider access
 - Second, train the labeled data (UNSW-NB15) on machine learning models such as decision trees and neural network
 - Third, evaluate the validility of machine learning IDS application by predicting unknown attacks
 
-![feature-creation](https://user-images.githubusercontent.com/35075881/49333628-19b22080-f590-11e8-8085-191e0a851ad9.png)
+-> ![feature-creation](https://user-images.githubusercontent.com/35075881/49333628-19b22080-f590-11e8-8085-191e0a851ad9.png) <-
 
 ![ml-ids-module](https://user-images.githubusercontent.com/35075881/49333625-0901aa80-f590-11e8-9053-0f58af89ec88.png)
+
 
 ## System Design
 
@@ -72,6 +73,7 @@ b. Enable ACL: prevents outsider access
 ![hyperledger-3](https://user-images.githubusercontent.com/35075881/49333666-e8862000-f590-11e8-83d4-8746c6ca2d3d.png)
 
 ![class diagram](https://user-images.githubusercontent.com/35075881/49333668-ed4ad400-f590-11e8-9be6-347366653fb9.png)
+
 
 ## Contributors (NEU - MSCY)
 
