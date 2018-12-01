@@ -22,6 +22,12 @@
 ![Image of Hyperledger Composer]
 (https://hyperledger.github.io/composer/v0.19/assets/img/Composer-Diagram.svg)
 
+### Hyperledger Fabric
+
+- Hyperledger Fabric is an open source enterprise-grade permissioned distributed ledger technology (DLT) platform, designed for use in enterprise contexts, that delivers some key differentiating capabilities over other popular distributed ledger or blockchain platforms
+- It is used for developing applications or solutions with a modular architecture, it allows components, such as consensus and membership services, to be plug-and-play
+- It leverages container technology to host smart contracts called “chaincode” that comprise the application logic of the system
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
