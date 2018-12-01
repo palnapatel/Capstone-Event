@@ -47,8 +47,8 @@ b. Enable ACL: prevents outsider access
 
 ## Working Hyperledger Composer
 
-![Hyperledger Composer](Capstone-Event/Composer Playground.png)
-![Composer](Capstone-Event/Composer2.png)
+![Hyperledger Composer](https://github.com/palnapatel/Capstone-Event/blob/master/Composer%20Playground.png)
+![Composer](https://github.com/palnapatel/Capstone-Event/blob/master/Composer2.png)
 
 ### Markdown
 
