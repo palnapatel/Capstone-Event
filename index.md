@@ -20,7 +20,7 @@
 - Using Composer, you define the transactions which can interact with assets, participants who interact with the assets
 
 ![Image of Hyperledger Composer]
-(https://hyperledger.github.io/composer/v0.19/assets/img/Composer-Diagram.svg)
+(https://cdn-images-1.medium.com/max/1600/1*i-AljiziyuoQSy-SCtvbZg.png)
 
 ### Hyperledger Fabric
 
