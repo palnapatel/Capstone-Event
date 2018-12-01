@@ -15,6 +15,13 @@
 
 ### Hyperledger Composer 
 
+- Hyperledger Composer is an extensive, open development toolset and framework to make developing blockchain applications easier
+- Hyperledger Composer can be used to quickly model the current business network, containing the existing assets and the transactions related to them
+- Using Composer, you define the transactions which can interact with assets, participants who interact with the assets
+
+![Image of Hyperledger Composer]
+(https://hyperledger.github.io/composer/v0.19/assets/img/Composer-Diagram.svg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
