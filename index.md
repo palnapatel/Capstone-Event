@@ -28,6 +28,22 @@
 - It is used for developing applications or solutions with a modular architecture, it allows components, such as consensus and membership services, to be plug-and-play
 - It leverages container technology to host smart contracts called “chaincode” that comprise the application logic of the system
 
+## Security
+
+### Benenfits and Concerns
+
+Security aspects of Hyperledger network
+a. Enable TLS: encrypt peer traffic in transit
+b. Enable ACL: prevents outsider access
+
+- Spoofing: Fabric certificate authority generates X.509 certificates for its members
+- Tampering: Use of cryptographic measures (SHA256, ECDSA) make tampering infeasible
+- Repudiation: Tracks who did what using digital signatures
+- Replay Attacks: Hyperledger Fabric uses read/write sets to validate the transaction. A replay of transactions will fail due to an invalid read set
+- Information Disclosure: Hyperledger Fabric provides support for using TLSv1.2 for intransit encryption. It does not encrypt ledger data at rest (the operator's responsibility)
+- Elevation of Privileges: Issued identities cannot upgrade their access (for example, create an identity) without manual review of access
+- DoS/DDoS: HF is a permissioned network, no anonymous access. Same nodes / Admin can revoke offender’s access, and identity data help find liable person for legal action. Volume-based DDoS requires a large number of member nodes to be compromised, which is unrealistic in a large network and ineffective in a small network
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
