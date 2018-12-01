@@ -19,7 +19,7 @@
 - Hyperledger Composer can be used to quickly model the current business network, containing the existing assets and the transactions related to them
 - Using Composer, you define the transactions which can interact with assets, participants who interact with the assets
 
-https://hyperledger.github.io/composer/v0.19/assets/img/Composer-Diagram.svg
+![Composer](https://hyperledger.github.io/composer/v0.19/assets/img/Composer-Diagram.svg)
 
 ### Hyperledger Fabric
 
