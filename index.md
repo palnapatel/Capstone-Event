@@ -29,6 +29,7 @@ The objective of the deep learning analyzer is to prove the concept of using dee
   e. Reduced Costs
 - Blockchain allows multiple different parties to securely interact with the same universal source of truth
 
+
 ### Hyperledger Composer 
 
 - Hyperledger Composer is an extensive, open development toolset and framework to make developing blockchain applications easier
@@ -37,6 +38,7 @@ The objective of the deep learning analyzer is to prove the concept of using dee
 
 ![Composer](https://hyperledger.github.io/composer/v0.19/assets/img/Composer-Diagram.svg)
 
+
 ### Hyperledger Fabric
 
 - Hyperledger Fabric is an open source enterprise-grade permissioned distributed ledger technology (DLT) platform, designed for use in enterprise contexts, that delivers some key differentiating capabilities over other popular distributed ledger or blockchain platforms
@@ -44,6 +46,7 @@ The objective of the deep learning analyzer is to prove the concept of using dee
 - It leverages container technology to host smart contracts called “chaincode” that comprise the application logic of the system
 
 ![Fabric](https://www.altoros.com/blog/wp-content/uploads/2016/11/Hyperledger-Blockchain-Elli-Androulaki-fabric-model.jpg)
+
 
 ## Security
 
@@ -61,15 +64,18 @@ b. Enable ACL: prevents outsider access
 - Elevation of Privileges: Issued identities cannot upgrade their access (for example, create an identity) without manual review of access
 - DoS/DDoS: HF is a permissioned network, no anonymous access. Same nodes / Admin can revoke offender’s access, and identity data help find liable person for legal action. Volume-based DDoS requires a large number of member nodes to be compromised, which is unrealistic in a large network and ineffective in a small network
 
+
 ## Working Hyperledger Composer
 
 ![composer playground](https://user-images.githubusercontent.com/35075881/49333613-d6f04880-f58f-11e8-994d-93c438c22ec3.png)
 ![composer2](https://user-images.githubusercontent.com/35075881/49333616-dce62980-f58f-11e8-9b64-ca853daadd72.png)
 
+
 ## Working Hyperledger Fabric
 
 ![fabric](https://user-images.githubusercontent.com/35075881/49333618-e1aadd80-f58f-11e8-821c-8ec8586fba51.png)
 ![fabric 2](https://user-images.githubusercontent.com/35075881/49333619-e40d3780-f58f-11e8-9718-73ac5c6bff46.png)
+
 
 ## Deep Learning IDS
 
