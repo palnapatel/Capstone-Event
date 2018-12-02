@@ -48,7 +48,7 @@ The objective of the deep learning analyzer is to prove the concept of using dee
 ![Fabric](https://www.altoros.com/blog/wp-content/uploads/2016/11/Hyperledger-Blockchain-Elli-Androulaki-fabric-model.jpg)
 
 
-## Security
+# Security
 
 ### Benenfits and Concerns
 
@@ -65,19 +65,19 @@ b. Enable ACL: prevents outsider access
 - DoS/DDoS: HF is a permissioned network, no anonymous access. Same nodes / Admin can revoke offender’s access, and identity data help find liable person for legal action. Volume-based DDoS requires a large number of member nodes to be compromised, which is unrealistic in a large network and ineffective in a small network
 
 
-## Working Hyperledger Composer
+# Working Hyperledger Composer
 
 ![composer playground](https://user-images.githubusercontent.com/35075881/49333613-d6f04880-f58f-11e8-994d-93c438c22ec3.png)
 ![composer2](https://user-images.githubusercontent.com/35075881/49333616-dce62980-f58f-11e8-9b64-ca853daadd72.png)
 
 
-## Working Hyperledger Fabric
+# Working Hyperledger Fabric
 
 ![fabric](https://user-images.githubusercontent.com/35075881/49333618-e1aadd80-f58f-11e8-821c-8ec8586fba51.png)
 ![fabric 2](https://user-images.githubusercontent.com/35075881/49333619-e40d3780-f58f-11e8-9718-73ac5c6bff46.png)
 
 
-## Deep Learning IDS
+# Deep Learning IDS
 
 - First, capture network traffic packets and transform them into high-level data sheets with fact labels
 - Second, train the labeled data (UNSW-NB15) on machine learning models such as decision trees and neural network
@@ -88,7 +88,7 @@ b. Enable ACL: prevents outsider access
 ![ml-ids-module](https://user-images.githubusercontent.com/35075881/49333625-0901aa80-f590-11e8-9053-0f58af89ec88.png)
 
 
-## System Design
+# System Design
 
 ### Overview
 
@@ -97,7 +97,7 @@ b. Enable ACL: prevents outsider access
 ![class diagram](https://user-images.githubusercontent.com/35075881/49333668-ed4ad400-f590-11e8-9be6-347366653fb9.png)
 
 
-## Contributors (NEU - MSCY)
+# Contributors (NEU - MSCY)
 
 - Palna Patel
 - Hongchao Wang
