@@ -1,5 +1,21 @@
 ## Introduction
 
+### Motivation
+
+The advancements in telecommunication, semiconductors, and Internet technologies have given rise to the surge of IoT devices. IoT is slowing allowing for the healthcare industry to reduce its dependencies on human and their associated human errors. Also, IoT medical devices are steadily improving healthcare and providing early diagnosis and treatment of serious issues.  
+
+The data confidentiality and integrity of personal health information: patients want to transmit data to doctors or insurance providers without tampering and leakage; doctors, insurance providers wish to check patients’ complete and authentic medical records or case history, etc. We use blockchain to solve this challenge, which also brings other side benefits such as more intelligent and efficient ways to pair doctors with patients.
+
+The device vulnerability in a potentially malicious network environment: as the popularity of medical IoT devices grows, so does the activities of attackers. As the intrusion becomes increasingly sophisticated and in large volume, using human inspection or firewall rules is not sufficient anymore. Poor cybersecurity in IoT medical devices potentially poses risks to both the wellbeing of patients as well as to the infrastructure that keeps the hospital running. It poses serious threats not only to people’s privacy, but also health.
+
+
+### Objectives
+
+Security is essential for the IoT industry as a whole, but it’s even more critical when you add in patient privacy. The objective of blockchain for healthcare (also called healthchain) is to prototype a secured, standardized health information exchange system. It helps to reduce cybersecurity risk, and potentially reduce impact on safety and operational risk, such as the loss of patient information or interference with the standard operation of a medical device.
+
+The objective of the deep learning analyzer is to prove the concept of using deep learning as a classification method for intrusion detection systems. We want our trained model to be able to detect malicious patterns and notify people even those attacks have never been seen before. Also, the intrusion detection component can be deployed on device, and work efficiently.
+
+
 ### Blockchain
 
 - Blockchain is literally just a chain of blocks. When we say the words “block” and “chain” in this context, we are actually talking about digital information (the “block”) stored in a public database (the “chain”)
